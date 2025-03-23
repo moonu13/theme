@@ -1,16 +1,4 @@
-/**
- * @name Vencord's Theme (v1.0.9)
- * @author Synqat
- * @version 1.0.9
- * @description A Vencord-themed Discord theme!
- * @source https://github.com/Synqat/vencord-theme
- * @website https://vencord.dev
- * @invite vencord
-*/
-
 @import "https://raw.githubusercontent.com/moonu13/theme/refs/heads/main/latest.css";
-
-/* it is what it is */
 :root {
   --synqats-gb-bg-0-dark: #1e2021;
   --synqats-gb-bg-1-dark: #282828;
