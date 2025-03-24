@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+@import url('https://raw.githubusercontent.com/moonu13/fontface/refs/heads/main/main.css');
 .theme-light:root {
   --synqats-gb-bg-0: var(--synqats-gb-bg-0-light);
   --synqats-gb-bg-1: var(--synqats-gb-bg-1-light);
@@ -396,7 +396,7 @@ html:root,
 body,
 html {
   text-rendering: optimizeLegibility !important;
-  font-family: "Outfit", sans-serif !important;
+  font-family: "SF Pro Display", "SFArabicRounded", sans-serif !important;
 }
 
 [class*=membersWrap] {
